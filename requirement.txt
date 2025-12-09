@@ -1,0 +1,6 @@
+streamlit
+os
+requests
+json
+pandas
+streamlit_geolocation
