@@ -141,6 +141,7 @@ st.markdown("""
         font-size: 22px;
         color: #0d2c3a;
         line-height: 1.7;
+        text-align: right;
     }
 
 
@@ -479,7 +480,6 @@ elif menu == "Qibla Direction":
         st.image(compass_url, caption=f"Qibla Compass ({direction_name})")
     else:
         st.error("Failed to fetch Qibla data")
-    if st.button("Refresh Location"):
         st.experimental_rerun()
 elif menu == "Zakat Calculator":
     st.header("Live Zakat Calculator")
