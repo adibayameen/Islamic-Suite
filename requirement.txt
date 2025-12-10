@@ -1,6 +1,4 @@
 streamlit
-os
-requests
-json
 pandas
+requests
 streamlit_geolocation
