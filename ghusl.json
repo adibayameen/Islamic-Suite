@@ -1,0 +1,70 @@
+{
+  "ghusl_steps": [
+    {
+      "step_number": "Step 1",
+      "title": "Begin with Niyyah-(نیت کے ساتھ شروع کریں)",
+      "description_en": "Internally declare your intention to perform Ghusl for purification",
+      "description_ur": "دل میں یہ نیت کریں کہ آپ پاکیزگی کے لیے غسل کر رہے ہیں۔"
+    },
+    {
+      "step_number": "Step 2",
+      "title": "Wash Your Hands-(ہاتھ دھوئیں)",
+      "description_en": "Wash your hands three times, ensuring they are clean",
+      "description_ur": "اپنے ہاتھ تین بار دھوئیں اور صاف کریں۔"
+    },
+    {
+      "step_number": "Step 3",
+      "title": "Rinse Your Mouth and Nose-(منہ اور ناک کللیں)",
+      "description_en": "Rinse your mouth and nose three times to purify these orifices.",
+      "description_ur": "منہ اور ناک تین بار دھو کر صاف کریں۔"
+    },
+    {
+      "step_number": "Step 4",
+      "title": "Wash Your Face-(چہرہ دھوئیں)",
+      "description_en": "Wash your entire face three times, from forehead to chin and from ear to ear.",
+      "description_ur": "پورے چہرے کو تین بار دھوئیں، ماتھے سے لے کر ٹھوڑی تک اور کانوں سے کانوں تک۔"
+    },
+    {
+      "step_number": "Step 5",
+      "title": "Wash Your Arms-(بازو دھوئیں)",
+      "description_en": "Cleanse your arms, starting with the right, up to and including the elbows, three times.",
+      "description_ur": "دائیں بازو سے شروع کریں اور کہنی سمیت تین بار دھوئیں، پھر بائیں بازو بھی دھوئیں۔"
+    },
+    {
+      "step_number": "Step 6",
+      "title": "Perform Wudu-(وضو کریں)",
+      "description_en": "Make ablution as you would for prayer, but you may delay washing your feet until the end of Ghusl.",
+      "description_ur": "جیسے نماز کے لیے وضو کرتے ہیں، لیکن پاؤں دھونا غسل کے آخر تک ملتوی کر سکتے ہیں۔"
+    },
+    {
+      "step_number": "Step 7",
+      "title": "Pour Water Over Your Head-(سر پر پانی ڈالیں)",
+      "description_en": "Pour water over your head three times, making sure it reaches the roots of your hair and covers your scalp.",
+      "description_ur": "تین بار سر پر پانی ڈالیں تاکہ بالوں کی جڑوں تک پہنچے اور کھوپڑی پوری طرح صاف ہو جائے۔"
+    },
+    {
+      "step_number": "Step 8",
+      "title": "Wash the Rest of Your Body-(باقی جسم دھوئیں)",
+      "description_en": "Begin with the right side, then the left, ensuring every part is washed, including behind the ears and under the arms.",
+      "description_ur": "دائیں طرف سے شروع کریں، پھر بائیں طرف، یہ یقینی بنائیں کہ جسم کا ہر حصہ دھل جائے، کانوں کے پیچھے اور بازوؤں کے نیچے بھی شامل۔"
+    },
+    {
+      "step_number": "Step 9",
+      "title": "Wash Your Feet-(پاؤں دھوئیں)",
+      "description_en": "Finish Ghusl by washing your feet, right then left, making sure water cleanses between the toes.",
+      "description_ur": "غسل کا اختتام پاؤں دھو کر کریں، پہلے دائیں پھر بائیں، انگلیوں کے درمیان پانی پہنچائیں۔"
+    },
+    {
+      "step_number": "Common Mistakes to Avoid-(عام غلطیوں سے بچیں)",
+      "title": "Skipping the Niyyah-(نیت کو چھوڑنا)",
+      "description_en": "Intention is crucial for your Ghusl to be accepted",
+      "description_ur": "نیت کے بغیر غسل قبول نہیں ہوتا۔"
+    },
+    {
+      "step_number": "Common Mistakes to Avoid-(عام غلطیوں سے بچیں)",
+      "title": "Not Ensuring Water Reaches Every Part-(جسم کے ہر حصے تک پانی نہ پہنچانا)",
+      "description_en": "Make sure no part of the body is left dry",
+      "description_ur": "یہ یقینی بنائیں کہ جسم کا کوئی حصہ خشک نہ رہے۔"
+    }
+  ]
+}

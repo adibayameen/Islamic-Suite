@@ -1,0 +1,70 @@
+{
+  "wudu_steps": [
+    {
+      "step": "Step 1",
+      "action": "Niyyah (Intention)",
+      "description_en": "Make the intention in your heart to perform wudu for the sake of Allah.",
+      "description_ur": "دل میں ارادہ کریں کہ وضو اللہ کے لیے کر رہے ہیں۔"
+    },
+    {
+      "step": "Step 2",
+      "action": "Say Bismillah",
+      "description_en": "Say “Bismillah” (In the name of Allah).",
+      "description_ur": "“بسم اللہ” کہیں۔"
+    },
+    {
+      "step": "Step 3",
+      "action": "Wash Hands",
+      "description_en": "Wash both hands up to the wrists three times, making sure water reaches between the fingers.",
+      "description_ur": "دونوں ہاتھ کلائی تک تین مرتبہ دھوئیں، انگلیوں کے درمیان بھی پانی پہنچائیں۔"
+    },
+    {
+      "step": "Step 4",
+      "action": "Rinse Mouth",
+      "description_en": "Take water into your mouth using your right hand, swish it around, and spit it out. Repeat three times.",
+      "description_ur": "اپنا داہنا ہاتھ پانی لے کر منہ میں پانی ڈالیں، اچھی طرح گھمائیں اور تھوک دیں۔ یہ عمل تین مرتبہ کریں۔"
+    },
+    {
+      "step": "Step 5",
+      "action": "Clean Nose",
+      "description_en": "Sniff water into your nostrils using your right hand and blow it out using your left hand. Repeat three times.",
+      "description_ur": "اپنا داہنا ہاتھ استعمال کرکے پانی ناک میں اندر کھینچیں پھر بائیں ہاتھ سے نکالیں۔ تین بار کریں۔"
+    },
+    {
+      "step": "Step 6",
+      "action": "Wash Face",
+      "description_en": "Wash your entire face three times — from hairline to chin and ear to ear.",
+      "description_ur": "پورا چہرہ تین مرتبہ دھوئیں — جہاں بال شروع ہوتے ہیں تا ٹھوڑی اور ایک کان سے دوسرے کان تک۔"
+    },
+    {
+      "step": "Step 7",
+      "action": "Wash Arms",
+      "description_en": "Wash both arms up to the elbows, starting with the right arm, three times. Make sure water covers all parts including between fingers.",
+      "description_ur": "دونوں بازو کہنیوں تک تین مرتبہ دھوئیں، پہلے دایاں بازو اور پھر بایاں۔ انگلیوں کے درمیان بھی پانی پہنچائیں۔"
+    },
+    {
+      "step": "Step 8",
+      "action": "Wipe Head (Masah)",
+      "description_en": "Wet your hands and wipe your head once — start from the forehead to the back and then return to the front.",
+      "description_ur": "ہاتھ گیلا کریں اور ایک مرتبہ سر پر مسح کریں — ماتھے سے لے کر پیچھے اور واپس سامنے آئیں۔"
+    },
+    {
+      "step": "Step 9",
+      "action": "Wipe Ears",
+      "description_en": "With the same wet hands, wipe inside your ears with your index fingers and the back of your ears with your thumbs (once).",
+      "description_ur": "گیلے ہاتھوں سے کانوں کے اندرونی حصے کو انگوٹھے اور انڈیکس فنگر سے صاف کریں، اور کان کے پیچھے والے حصے کو انگوٹھے سے ایک مرتبہ مسح کریں۔"
+    },
+    {
+      "step": "Step 10",
+      "action": "Wash Feet",
+      "description_en": "Wash the right foot up to the ankle three times, making sure to pass water between the toes. Then do the same with the left foot.",
+      "description_ur": "دایاں پاؤں ٹخنے تک تین مرتبہ دھوئیں، انگلیوں کے درمیان پانی پہنچائیں، پھر بایاں پاؤں ویسے ہی دھوئیں۔"
+    },
+    {
+      "step": "Step 11",
+      "action": "Dua After Wudu",
+      "description_en": "After completing wudu, recite: “Ashhadu an la ilaha illallah wahdahu la sharika lahu, wa ashhadu anna Muhammadan ‘abduhu wa rasuluh.”",
+      "description_ur": "وضو مکمل کرنے کے بعد پڑھیں: “اشھَدُ أن لا إِلٰهَ إِلَّا اللهُ وَأَشھَدُ أنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ۔”"
+    }
+  ]
+}
