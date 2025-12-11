@@ -1,0 +1,131 @@
+{
+  "prayer_rakats": [
+    {
+      "prayer": "Fajr",
+      "rakats": [
+        {
+          "type": "Sunnah",
+          "count": 2,
+          "description_en": "2 Rakat Sunnah before Fard",
+          "description_ur": "فرض سے پہلے 2 رکعت سنت"
+        },
+        {
+          "type": "Fard",
+          "count": 2,
+          "description_en": "2 Rakat Fard",
+          "description_ur": "2 رکعت فرض"
+        }
+      ]
+    },
+    {
+      "prayer": "Dhuhr",
+      "rakats": [
+        {
+          "type": "Sunnah",
+          "count": 4,
+          "description_en": "4 Rakat Sunnah before Fard",
+          "description_ur": "فرض سے پہلے 4 رکعت سنت"
+        },
+        {
+          "type": "Fard",
+          "count": 4,
+          "description_en": "4 Rakat Fard",
+          "description_ur": "4 رکعت فرض"
+        },
+        {
+          "type": "Sunnah",
+          "count": 2,
+          "description_en": "2 Rakat Sunnah after Fard",
+          "description_ur": "فرض کے بعد 2 رکعت سنت"
+        },
+        {
+          "type": "Nafl",
+          "count": 2,
+          "description_en": "2 Rakat Nafl",
+          "description_ur": "2 رکعت نفل"
+        }
+      ]
+    },
+    {
+      "prayer": "Asr",
+      "rakats": [
+        {
+          "type": "Sunnah",
+          "count": 4,
+          "description_en": "4 Rakat Sunnah before Fard",
+          "description_ur": "فرض سے پہلے 4 رکعت سنت"
+        },
+        {
+          "type": "Fard",
+          "count": 4,
+          "description_en": "4 Rakat Fard",
+          "description_ur": "4 رکعت فرض"
+        }
+      ]
+    },
+    {
+      "prayer": "Maghrib",
+      "rakats": [
+        {
+          "type": "Fard",
+          "count": 3,
+          "description_en": "3 Rakat Fard",
+          "description_ur": "3 رکعت فرض"
+        },
+        {
+          "type": "Sunnah",
+          "count": 2,
+          "description_en": "2 Rakat Sunnah after Fard",
+          "description_ur": "فرض کے بعد 2 رکعت سنت"
+        },
+        {
+          "type": "Nafl",
+          "count": 2,
+          "description_en": "2 Rakat Nafl",
+          "description_ur": "2 رکعت نفل"
+        }
+      ]
+    },
+    {
+      "prayer": "Isha",
+      "rakats": [
+        {
+          "type": "Sunnah",
+          "count": 4,
+          "description_en": "4 Rakat Sunnah before Fard",
+          "description_ur": "فرض سے پہلے 4 رکعت سنت"
+        },
+        {
+          "type": "Fard",
+          "count": 4,
+          "description_en": "4 Rakat Fard",
+          "description_ur": "4 رکعت فرض"
+        },
+        {
+          "type": "Sunnah",
+          "count": 2,
+          "description_en": "2 Rakat Sunnah after Fard",
+          "description_ur": "فرض کے بعد 2 رکعت سنت"
+        },
+        {
+          "type": "Nafl",
+          "count": 2,
+          "description_en": "2 Rakat Nafl",
+          "description_ur": "2 رکعت نفل"
+        },
+        {
+          "type": "Witr",
+          "count": 3,
+          "description_en": "3 Rakat Witr (Wajib)",
+          "description_ur": "3 رکعت وتر واجب"
+        },
+        {
+          "type": "Nafl",
+          "count": 2,
+          "description_en": "2 Rakat Nafl after Witr",
+          "description_ur": "وتر کے بعد 2 رکعت نفل"
+        }
+      ]
+    }
+  ]
+}
